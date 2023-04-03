@@ -188,14 +188,14 @@ for (int i = 0; i < students.Count; i++)
         LastName = "Asylkhan"
     },
     new Student {
-        Username = "john_doe",
-        FirstName = "John",
-        LastName = "Doe"
+        Username = "vladik",
+        FirstName = "Vlad",
+        LastName = "German"
     },
     new Student {
-        Username = "jane_doe",
-        FirstName = "Jane",
-        LastName = "Doe"
+        Username = "daniyal",
+        FirstName = "Daniyal",
+        LastName = "Asylbekov"
     }
 }
 ```
